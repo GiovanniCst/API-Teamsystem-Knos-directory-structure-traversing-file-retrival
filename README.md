@@ -10,7 +10,7 @@ Avendo difficoltá a far funzionare in tempo utile l'API ufficiale fornita da Te
 
 Tutti i marchi menzionati sono di proprietá dei rispettivi titolari.
 
-In the company recently we needed to deliver documents (mostly in PDF format) produced on the Alyante™ ERP system from Teamsystem™ which are published through the DMS system, also by Teamsystem™, called Knos™ to the middleware which interacts with our Salesforce™ org.  
+In the company recently we needed to deliver documents (mostly in PDF format) produced on the Alyante™ ERP system by Teamsystem™ which are published through the DMS system, also by Teamsystem™, called Knos™ to the middleware which interacts with our Salesforce™ org.  
 Having difficulty getting the official API provided by Teamsystem™ to work in a timely manner, I developed a Python script that produces the result we need, which is to allow the the Salesforce™ middleware to retrieve the documents produced by our ERP and published on the DMS. This happens via a standard API which traverses the DMS filesystem. The script does not directly interact with the DMS, instead - given the publication ID and version of the file - traverses the filesystem and returns the file.
 
 All trademarks mentioned are the property of their respective owners.  
