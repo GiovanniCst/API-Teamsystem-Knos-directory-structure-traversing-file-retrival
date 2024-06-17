@@ -49,7 +49,7 @@ Questo progetto consiste in un'API basata su Python che interagisce con un siste
   
 ### Configurazione come Servizio su Windows (Opzionale)
 
-Per configurare lo script come servizio su Windows Server utilizzando NSSM
+Lo script puó essere configurato come servizio su Windows Server utilizzando NSSM
 
 
 ### Licenza
