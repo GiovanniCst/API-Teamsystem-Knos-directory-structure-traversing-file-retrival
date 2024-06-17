@@ -6,7 +6,7 @@ Python API with Flask for file retrieval using publication ID and version number
 
 ## Backstory
 In azienda avevamo bisogno di consegnare a Salesforce™ documenti (gran parte in formato PDF) prodotti sul gestionale Alyante™ di Teamsystem™ che abbiamo in uso e che vengono pubblicati tramite il sistema DMS, sempre Teamsystem™, chiamato Knos™.  
-Avendo difficoltá a far funzionare in tempo utile l'API ufficiale fornita da Teamsystem™, ho sviluppato uno script Python che produce il risultato di cui avevamo bisogno, ovvero consente al middleware di scambio dati con Salesforce™ di recuperare i PDF dei documenti con tecnologia API standard tramite traversing del filesystem del DMS. Lo script quindi non si interffaccia direttamente con il DMS, ma ottenuto l'ID della pubblicazione e la versione del file, lo rintraccia all'interno del filesystem.
+Avendo difficoltá a far funzionare in tempo utile l'API ufficiale fornita da Teamsystem™, ho sviluppato uno script Python che produce il risultato di cui avevamo bisogno, ovvero consente al middleware di scambio dati con Salesforce™ di recuperare i PDF dei documenti con tecnologia API standard tramite traversing del filesystem del DMS. Lo script quindi non si interfaccia direttamente con il DMS, ma ottenuto l'ID della pubblicazione e la versione del file, lo rintraccia all'interno del filesystem.
 
 Tutti i marchi menzionati sono di proprietá dei rispettivi titolari.
 
