@@ -51,7 +51,7 @@ Questo progetto consiste in un'API basata su Python che interagisce con un siste
 Sofware proprietario, disponibile su licenza
 
 ### Contatti
-Per qualsiasi richiesta, contatta l'autore scrivendo a: g punto costantini at gmail punto com
+Per qualsiasi richiesta, contatta l'autore scrivendo a: g punto costantini chiocciola gmail punto com
 
 
 ### English Description
