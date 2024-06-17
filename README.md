@@ -46,6 +46,11 @@ Questo progetto consiste in un'API basata su Python che interagisce con un siste
 
 3. **Test**:
    - Eseguire `test_api.py` e `test_script.py` per garantire che l'API e la logica di localizzazione dei file funzionino correttamente.
+  
+### Configurazione come Servizio su Windows (Opzionale)
+
+Per configurare lo script come servizio su Windows Server utilizzando NSSM
+
 
 ### Licenza
 Sofware proprietario, disponibile su licenza
@@ -86,6 +91,10 @@ This project consists of a Python-based API that interacts with a file managemen
 
 3. **Testing**:
    - Run `test_api.py` and `test_script.py` to ensure the API and file locating logic are functioning correctly.
+  
+### Windows Service Setup (Optional)
+
+The script can be configured as a service on Windows Server using NSSM
   
   
 ### License
